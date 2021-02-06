@@ -1,7 +1,4 @@
 Note: FOR PERSONAL USE ONLY
-[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/konifar/fab-transformation/blob/master/LICENSE)
-[ ![Download](https://api.bintray.com/packages/konifar/maven/fab-transformation/images/download.svg) ](https://bintray.com/konifar/maven/fab-transformation/_latestVersion)
-
 # Fab Transformation
 This library supports Floating Action Button transformation in [Material Design Guideline](https://www.google.com/design/spec/components/buttons-floating-action-button.html).
 
